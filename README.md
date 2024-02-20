@@ -1,3 +1,3 @@
-# Arquivos destinados ao PHP 7
+# Arquivos destinados ao PHP 8
 
 Breve
